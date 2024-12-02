@@ -1,7 +1,8 @@
-Hi there 👋, I'm David!
+Hi there 👋, I’m David!
+Thanks for visiting my GitHub! I’m a software developer who genuinely enjoys building things that people find useful and intuitive. Whether it’s crafting a smooth user interface, designing a solid backend, or making an app accessible for everyone, I take pride in creating solutions that feel natural and work well.
 
-I'm a Software Engineer passionate about building reactive, user-focused applications. 
-My goal is to craft seamless, accessible, and innovative user experiences, with a focus on full-stack development.
+These days, I’m working with TypeScript, Angular, and NgRx, often pairing them with Material Design to build clean, responsive applications. At BEC Financial Technologies, I’ve been lucky enough to work on fintech projects that tackle real-world problems, balancing innovation with compliance in some pretty interesting ways.
 
-With hands-on experience in TypeScript, Angular, NgRx, and Material Design Components, I've contributed to modern, compliant financial technology solutions at BEC Financial Technologies. 
-Additionally, my background as a Business Analyst has equipped me with a strong foundation in gathering requirements and collaborating with stakeholders to deliver value-driven features.
+Before jumping into development, I spent time as a Business Analyst. That experience gave me a real appreciation for understanding what people need and figuring out how to deliver it in the best way possible.
+
+Feel free to check out my projects or reach out—I’m always happy to connect, share ideas, and learn from others in the tech world.
